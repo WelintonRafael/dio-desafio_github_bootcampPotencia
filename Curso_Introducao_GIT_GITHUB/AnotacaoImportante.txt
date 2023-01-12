@@ -1,0 +1,8 @@
+Git é uma forma de criar versionamento de código de forna distribuida e segura.
+
+Com o Git  e feito uma cryptografia  controlando as mudanças dos arquivos e  identificando o autor de cada uma delas.
+
+Desta forma os COMMIT carregam alguns dados que contribui com este processo.
+
+Git é herdado da distribuição do Linux e com ele fazemos também integração ao sistema de armazenamento em nuvens pelo GitHub.
+GitHub são os repositórios online  que armazenamos nosso arquivos remotamente.
