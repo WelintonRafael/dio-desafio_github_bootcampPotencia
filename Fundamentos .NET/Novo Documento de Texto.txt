@@ -1,0 +1,4 @@
+Visto neste módulo fundamento e história do frameworrk .NET;
+Foi apresentando a estrutura e sua modificação ao longo dos anos de acordo com a necessidade da linguagens abranginda no framework.
+Visto no inicio tinha formato voltado para sistema windows, tornando atuamente multiplatforma.
+Visto sobre as diferenças entre compiladores, transpiladores e interpretadores.
