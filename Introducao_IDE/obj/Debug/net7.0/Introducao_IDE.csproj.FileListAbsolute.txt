@@ -1,0 +1,15 @@
+C:\Worksapce\dio\BootcampPotencia\dio-desafio_github_bootcampPotencia\Introducao_IDE\bin\Debug\net7.0\Introducao_IDE.exe
+C:\Worksapce\dio\BootcampPotencia\dio-desafio_github_bootcampPotencia\Introducao_IDE\bin\Debug\net7.0\Introducao_IDE.deps.json
+C:\Worksapce\dio\BootcampPotencia\dio-desafio_github_bootcampPotencia\Introducao_IDE\bin\Debug\net7.0\Introducao_IDE.runtimeconfig.json
+C:\Worksapce\dio\BootcampPotencia\dio-desafio_github_bootcampPotencia\Introducao_IDE\bin\Debug\net7.0\Introducao_IDE.dll
+C:\Worksapce\dio\BootcampPotencia\dio-desafio_github_bootcampPotencia\Introducao_IDE\bin\Debug\net7.0\Introducao_IDE.pdb
+C:\Worksapce\dio\BootcampPotencia\dio-desafio_github_bootcampPotencia\Introducao_IDE\obj\Debug\net7.0\Introducao_IDE.csproj.AssemblyReference.cache
+C:\Worksapce\dio\BootcampPotencia\dio-desafio_github_bootcampPotencia\Introducao_IDE\obj\Debug\net7.0\Introducao_IDE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Worksapce\dio\BootcampPotencia\dio-desafio_github_bootcampPotencia\Introducao_IDE\obj\Debug\net7.0\Introducao_IDE.AssemblyInfoInputs.cache
+C:\Worksapce\dio\BootcampPotencia\dio-desafio_github_bootcampPotencia\Introducao_IDE\obj\Debug\net7.0\Introducao_IDE.AssemblyInfo.cs
+C:\Worksapce\dio\BootcampPotencia\dio-desafio_github_bootcampPotencia\Introducao_IDE\obj\Debug\net7.0\Introducao_IDE.csproj.CoreCompileInputs.cache
+C:\Worksapce\dio\BootcampPotencia\dio-desafio_github_bootcampPotencia\Introducao_IDE\obj\Debug\net7.0\Introducao_IDE.dll
+C:\Worksapce\dio\BootcampPotencia\dio-desafio_github_bootcampPotencia\Introducao_IDE\obj\Debug\net7.0\refint\Introducao_IDE.dll
+C:\Worksapce\dio\BootcampPotencia\dio-desafio_github_bootcampPotencia\Introducao_IDE\obj\Debug\net7.0\Introducao_IDE.pdb
+C:\Worksapce\dio\BootcampPotencia\dio-desafio_github_bootcampPotencia\Introducao_IDE\obj\Debug\net7.0\Introducao_IDE.genruntimeconfig.cache
+C:\Worksapce\dio\BootcampPotencia\dio-desafio_github_bootcampPotencia\Introducao_IDE\obj\Debug\net7.0\ref\Introducao_IDE.dll

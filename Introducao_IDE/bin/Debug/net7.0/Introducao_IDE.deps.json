@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Introducao_IDE/1.0.0": {
+        "runtime": {
+          "Introducao_IDE.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Introducao_IDE/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
